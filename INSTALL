@@ -1,0 +1,9 @@
+Building Ripped
+
+See doc/readme-qt.rst for instructions on building Ripped QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ripped.
+
+See doc/build-*.txt for instructions on building rippedd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ripped.
