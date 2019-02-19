@@ -6,7 +6,7 @@ Development process
 ----------------
 
 For more information, as well as an immediately useable, binary version of
-the Ripped client sofware, see http://www.Ripped.com.
+the Ripped client sofware, see http://www.rippedcoin.com.
 
 License
 -------
