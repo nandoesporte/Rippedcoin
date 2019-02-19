@@ -22,6 +22,10 @@ the Ripped client sofware, see http://www.Ripped.com.
 
 License
 -------
+<strong>You can install using docker:</strong>
+<code> docker --name ripped --net host -it cosmo9able/ripped </code>
+After installing, you simply enter the ripped container and make the necessary adjustments in the /root/.ripped/ripped.conf file
+
 
 Ripped is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
